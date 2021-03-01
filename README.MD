@@ -44,10 +44,22 @@ As aulas foram ministradas pela **[Daniele Leão](https://github.com/danileao)**
 $ yarn install
 ```
 
+## Rodar migrações
+
+```
+$ yarn typeorm migration:run
+```
+
 ## Iniciar Aplicação
 
 ```
 $ yarn dev
+```
+
+## Testar Aplicação
+
+```
+$ yarn test
 ```
 
 <br>
